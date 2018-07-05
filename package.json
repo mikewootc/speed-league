@@ -1,0 +1,21 @@
+{
+  "name": "proxy_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cpclog": "^1.0.9",
+    "fs": "^0.0.1-security",
+    "http-proxy": "^1.17.0",
+    "md5": "^2.2.1",
+    "md5-file": "^4.0.0"
+  }
+}
